@@ -1,0 +1,19 @@
+To: [Refactum's application email, from the Indeed posting]
+Subject: Application: Working Student Software Development (CAD/CAM) – can start 15 Oct, up to 20 h/week
+
+Hello,
+
+I'm an M.Sc. Electrical Engineering student at the University of Stuttgart, and I'd like to apply for your Working Student Software Development (CAD/CAM Manufacturing) role.
+
+Why I fit what you ask for:
+- Python: I automated testing and data analysis in Python and embedded C during a one-year internship, and built a Python NLP project (Siamese neural network).
+- CAD: Altium Designer for PCB layout through to prototype validation, plus AutoCAD, CATIA and NX.
+- Enrolled at a German university, fully remote, English or German.
+
+I have not worked with CAM or CNC machining yet and would be learning that domain, which I'm keen to do.
+
+I can start tomorrow, 15 October, with up to 20 hours per week. My CV, cover letter and proof of enrolment are attached. I'm happy to do a quick call or a short coding task whenever suits you.
+
+Kind regards,
+Vineeth Raghav Gururajan
++49 155 65548480 | vineeth.raghav.g@gmail.com
