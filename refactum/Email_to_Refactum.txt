@@ -6,7 +6,7 @@ Hello,
 I'm an M.Sc. Electrical Engineering student at the University of Stuttgart, and I'd like to apply for your Working Student Software Development (CAD/CAM Manufacturing) role.
 
 Why I fit what you ask for:
-- Python: I automated testing and data analysis in Python and embedded C during a one-year internship, and built a Python NLP project (Siamese neural network).
+- Python: I automated testing and performance analysis in Python and embedded C during a one-year internship, and built a Python NLP project (Siamese neural network).
 - CAD: Altium Designer for PCB layout through to prototype validation, plus AutoCAD, CATIA and NX.
 - Enrolled at a German university, fully remote, English or German.
 
