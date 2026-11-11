@@ -6,7 +6,7 @@ body { font-family: Arial, "Liberation Sans", Helvetica, sans-serif; font-size: 
 .head .meta { margin-bottom: 7px; }
 .head .meta span { margin-right: 14px; }
 .head .line { margin: 2px 0; }
-.photo { width: 38mm; height: 38mm; border-radius: 50%; border: 1.6mm solid #bdbdbd; background: url(photo.jpg) center 22%/cover no-repeat; flex: none; }
+.photo { width: 33mm; height: 41.5mm; border-radius: 3mm; border: 1.2mm solid #bdbdbd; background: url(photo_crop.jpg) center / cover no-repeat; flex: none; }
 .body { padding: 4mm 14mm 0; }
 h2 { font-size: 10pt; margin: 9px 0 3px; border-bottom: .4pt solid #000; padding-bottom: 1px; text-transform: uppercase; letter-spacing: .6px; }
 .row { display: flex; margin: 4px 0; }
