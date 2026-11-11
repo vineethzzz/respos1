@@ -15,6 +15,6 @@
 - Minor project: Duplicate Question Detection (team of 4), Quora Question Pairs, SVM 88.3%, Random Forest 80.02%, Heroku web app, Nov 2024. NOT a Siamese network.
 - Battery Cell Modeling team project, Univ. Stuttgart, 2026 (from original CV).
 - Seminar I: cryptocurrency analysis and prediction. Report is a template with placeholders; no implementation or results. Mention only as a seminar line.
-- Certificates: PSpice Fundamentals (TVS India), Certificate of Training (Livewire Ltd.).
+- Certificates: PSpice Fundamentals (TVS India, date unknown); Course on PSpice, Livewire at SRM IST Ramapuram, 06/2022 (issued 29-06-2022). Battery Cell Modeling 11/2025-03/2026 (user). RoBA project 12/2024-01/2025 (user, assumed reading). B.Tech 08/2021-05/2025 assumed.
 - Volunteering: STEM workshops; post-cyclone relief in Chennai.
 - Status: Indian national, Fiktionsbescheinigung (Aufenthaltstitel pending), TK public insurance, lives in Stuttgart, uses S-Bahn.
