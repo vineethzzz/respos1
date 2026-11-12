@@ -1,17 +1,22 @@
-@page { size: A4; margin: 13mm 16mm 11mm 16mm; }
+@page { size: A4; margin: 0; }
 * { box-sizing: border-box; }
-body { font-family: "Liberation Sans", Arial, Helvetica, sans-serif; font-size: 9.4pt; line-height: 1.34; color: #1d1d1f; margin: 0; }
-h1 { font-size: 20pt; margin: 0; letter-spacing: .3px; color: #0b2545; }
-.contact { color: #444; margin-top: 3px; font-size: 9.2pt; }
-h2 { font-size: 10.5pt; text-transform: uppercase; letter-spacing: 1.2px; color: #0b2545; border-bottom: 1.4px solid #0b2545; padding-bottom: 2px; margin: 10px 0 5px; }
-.row { display: flex; justify-content: space-between; gap: 12px; }
-.row b { font-size: 10pt; }
-.muted { color: #555; white-space: nowrap; }
-ul { margin: 3px 0 7px 0; padding-left: 15px; }
-li { margin: 1.5px 0; }
-.skills td { padding: 1.5px 8px 1.5px 0; vertical-align: top; }
-.skills td:first-child { font-weight: bold; white-space: nowrap; color: #0b2545; }
-p { margin: 0 0 9px; }
-.letter { font-size: 10.6pt; line-height: 1.5; }
-.sender { text-align: right; font-size: 9.4pt; color: #333; }
-.subject { font-weight: bold; margin: 18px 0 14px; font-size: 11pt; }
+body { font-family: Arial, "Liberation Sans", Helvetica, sans-serif; font-size: 10pt; line-height: 1.36; color: #111; margin: 0; }
+.head { background: #e1e1e1; padding: 9mm 14mm; display: flex; justify-content: space-between; align-items: center; }
+.head h1 { font-size: 18pt; margin: 0 0 5px; letter-spacing: .3px; }
+.head .meta { margin-bottom: 7px; }
+.head .meta span { margin-right: 14px; }
+.head .line { margin: 2px 0; }
+.photo { width: 33mm; height: 41.5mm; border-radius: 3mm; border: 1.2mm solid #bdbdbd; background: url(photo_crop.jpg) center / cover no-repeat; flex: none; }
+.body { padding: 3mm 14mm 0; }
+h2 { font-size: 10.5pt; margin: 11px 0 4px; border-bottom: .4pt solid #000; padding-bottom: 1px; text-transform: uppercase; letter-spacing: .6px; }
+.row { display: flex; margin: 5px 0; }
+.row .d { width: 3.2cm; flex: none; }
+.row .t { flex: 1; }
+.row .t b { display: block; }
+ul { margin: 2px 0 0; padding-left: 14px; }
+li { margin: 2px 0; }
+p { margin: 3px 0; }
+.letter-page { padding: 18mm 20mm; font-size: 11pt; line-height: 1.5; }
+.letter-page p { margin: 0 0 10px; }
+.sender { text-align: right; font-size: 10pt; color: #333; }
+.subject { font-weight: bold; margin: 18px 0 14px; }
